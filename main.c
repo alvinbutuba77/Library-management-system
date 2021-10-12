@@ -1,7 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-//a program to display the menu of
-// a library management system.
+/*
+  Project :County Library management system.
+  Author  : Butuba Alvin
+  Date    : Oct, 12, 2021
+  Compiler: GNU GCC
+  Language: C99
+  License : MIT
+  
+                                            */
 int main()
 {
     printf("Welcome to County Online Library!\n ");
