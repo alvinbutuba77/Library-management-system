@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /*
   Project :County Library management system.
-  Author  : Butuba Alvin
+  Author  : Obalu Butuba DSE-01-0786/2021
   Date    : Oct, 12, 2021
   Compiler: GNU GCC
   Language: C99
