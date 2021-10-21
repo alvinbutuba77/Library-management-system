@@ -19,6 +19,7 @@ int main()
     puts("Login as guest user");
 
     printf("\n Action:\n");
+    printf("\n 0. ...Search);
     printf("\n 1. View Catalogue.");
     printf("\n 2. Select category.");
     printf("\n 3. View books.");
